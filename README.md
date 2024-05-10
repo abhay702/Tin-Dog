@@ -1,9 +1,18 @@
-**Project Description: Tin Dog Dating Website**
 
-**Overview:**
+# Tin Dog Dating Website
+
 Tin Dog is a static dating website project aimed at showcasing HTML and CSS skills through the implementation of various tags and styling techniques. The website provides a platform for users to connect with potential partners who share a love for pets, particularly dogs.
 
-**Technologies Used:**
+
+## Screenshots
+
+![image](https://github.com/abhay702/Tin-Dog/assets/106369018/eb118b89-0034-4442-8c47-231f438aeb5d)
+
+
+![image](https://github.com/abhay702/Tin-Dog/assets/106369018/d6d57dcc-a571-4413-a7c2-e9ce03531d67)
+
+
+## Tech Stack
 
 **HTML5**: Utilized to structure the content of the website, incorporating semantic tags for improved accessibility and SEO.
 **CSS3:** Employed for styling and layout purposes, including the use of selectors, properties, and values to create visually appealing designs.
